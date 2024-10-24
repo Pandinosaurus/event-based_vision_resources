@@ -1119,6 +1119,9 @@ IEEE Int. Conf. on Image Processing (ICIP), 2023. [Code](https://github.com/Dach
 - <a name="Kai24icml"></a>Kai, D., Lu, J., Zhang, Y., Sun, X.,  
 *[EvTexture: Event-driven Texture Enhancement for Video Super-Resolution](https://arxiv.org/pdf/2406.13457)*,  
 Int. Conf. on Machine Learning (ICML), 2024. [Project](https://dachunkai.github.io/evtexture.github.io/), [Code](https://github.com/DachunKai/EvTexture).
+- <a name="Zhang24tcsvt"></a>Zhang, P., Zhu, S., Wang, C., Zhao, Y., Lam, E. Y.,   
+*[Neuromorphic Imaging with Super-Resolution](https://doi.org/10.1109/TCSVT.2024.3482436)*,  
+IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2024. [PDF](https://arxiv.org/pdf/2407.05764).
 
 <a name="joint-filtering"></a>
 ### Joint/guided filtering
@@ -2461,7 +2464,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 <a name="obstacle_avoidance"></a>
 - <a name="Ayyad21arxiv"></a>Nair, G.B., Milford, M., Fischer, T.,   
 *[Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras](https://arxiv.org/pdf/2403.16425)*,  
-arXiv, 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr).
+arXiv, 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr), [Code](https://github.com/gokulbnr/fast-slow-biased-event-vpr), [Dataset](https://huggingface.co/datasets/gokulbnr/QCR-Fast-Slow-Event-Dataset).
 ## Obstacle Avoidance
 - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
 *[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
