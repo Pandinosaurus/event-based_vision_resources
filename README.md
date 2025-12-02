@@ -3082,7 +3082,7 @@ ACM Int. Conf. on Multimedia (MM), 2021. [PDF](https://cvteam.buaa.edu.cn/papers
 *[Reliable Event Generation With Invertible Conditional Normalizing Flow](http://dx.doi.org/10.1109/TPAMI.2023.3326538)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024. [PDF](https://cvteam.buaa.edu.cn/papers/2024-TPAMI-Daxin.pdf).
 - [Bhattacharya et al., WACV 2024](#Bhattacharya24wacv). *EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields*.
-- <a name="Lu25arxiv"></a>Lu Y., Messikommer N., Xu X., Chen L., Chen Y., Zubic N., Scaramuzza D., Xiong H.,
+- <a name="Lu25arxiv"></a>Lu Y., Messikommer N., Xu X., Chen L., Chen Y., Zubic N., Scaramuzza D., Xiong H.,            
 *[Hybrid Event Frame Sensors: Modeling, Calibration, and Simulation](http://dx.doi.org/10.48550/arXiv.2511.18037)*, 2025.          
 Arxiv, [PDF](https://arxiv.org/pdf/2511.18037).
 
