@@ -2380,6 +2380,10 @@ arXiv, 2025. [Video](https://www.youtube.com/watch?v=DFwz8JeqDk0), [Webpage](htt
 - <a name="Gava25irosw"></a>Gava, L., Ikura, M., Glover, A., Bartolozzi, C.,  
 *[SCARF: A Set of Centre Active Receptive Fields for Velocity Invariant Event Representation](https://openreview.net/forum?id=Oc7PzozG2s).*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS) Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots), 2025.
+- <a name="Maacaron25ijcnn"></a>Maacaron, B., Müller-Cleve, S. F., Glover, A., Bartolozzi, C.,  
+*[Persistent Representation of Event Camera Output Using Spiking Neural Networks](https://doi.org/10.1109/ijcnn64981.2025.11228097)*,  
+Int. Joint Conf. on Neural Networks (IJCNN), 2025. [YouTube](https://youtu.be/A1NKZnPdYfo)
+
 
 <a name="learning-regression"></a>
 ### Regression Tasks
