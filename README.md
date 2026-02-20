@@ -3291,8 +3291,8 @@ Data in Brief, 2024. [Dataset](https://doi.org/10.5281/zenodo.10562563), [Code](
 
 <a name="low-light-vision"></a>
 ## Low-Light Vision
-- <a name="Ercan25eccvw"></a>Ercan, B., Eker, O., Erdem, A., Erdem, E.,
-*[HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision](https://doi.org/10.1007/978-3-031-92460-6_11)*,
+- <a name="Ercan25eccvw"></a>Ercan, B., Eker, O., Erdem, A., Erdem, E.,  
+*[HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision](https://doi.org/10.1007/978-3-031-92460-6_11)*,  
 European Conf. Computer Vision Workshops (ECCVW), 2024. [PDF](https://arxiv.org/abs/2410.19164), [Project Page and Dataset](https://ercanburak.github.io/HUE.html).
 
 ## Space Situational Awareness
